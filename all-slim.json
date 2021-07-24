@@ -3148,8 +3148,8 @@
         }
       },
       {
-        "name": "after Galway HW</td>\n\n<td width=\"57\">4kn</td>\n\n</tr>\n\n</tbody>\n\n</table>\n\nKilbaha to Loop Head",
-        "safeName": "after-Galway-HWtdtd-width=574kntdtrtbodytableKilbaha-to-Loop-Head",
+        "name": "Kilbaha to Loop Head",
+        "safeName": "Kilbaha-to-Loop-Head",
         "coordinates": {
           "geo": {
             "lat": "52.56905991",
@@ -3258,7 +3258,7 @@
         }
       },
       {
-        "name": "Branaunmore – _An Branán Mór_",
+        "name": "Branaunmore (An Branán Mór)",
         "safeName": "Branaunmore-–-_An-Branán-Mór_",
         "coordinates": {
           "geo": {
